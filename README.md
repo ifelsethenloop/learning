@@ -7,7 +7,7 @@ https://react.dev/learn - Tutorials
 
 ## Python
 https://learnpythonthehardway.org - Tutorial and example applications, plus challenges
-https://towardsdatascience.com/virtual-environments-104c62d48c54 - Virtual env quick start
+https://towardsdatascience.com/virtual-environments-104c62d48c54 - Virtual env quick start <br />
 https://docs.python.org/3/library/venv.html#venv-def - Virtual env detail
 
 ## K8S
